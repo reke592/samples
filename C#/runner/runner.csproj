@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\io.samples\io.samples.csproj" />
+    <ProjectReference Include="..\pattern.samples\pattern.samples.csproj" />
+    <ProjectReference Include="..\algorithm.samples\algorithm.samples.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+</Project>

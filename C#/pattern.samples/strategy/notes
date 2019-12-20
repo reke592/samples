@@ -1,0 +1,6 @@
+target:
+    different implementations of same action
+        hence different shipment strategy
+
+using:
+    interface
